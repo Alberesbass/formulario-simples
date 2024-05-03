@@ -8,6 +8,8 @@ Em seguida, você pode preencher o formulário e clicar no botão "Enviar" para 
 
 Este projeto foi criado como parte do curso de HTML avançado da Fundação Bradesco.
 
+<img src="./formulario-simples.png" alt="imagem da tela do projeto">
+
 <h3>Como usar:</h3>
 <ol>
 <li>Copie e cole o código no seu editor de HTML.</li>
